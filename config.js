@@ -39,7 +39,7 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 ꜱᴀᴅ BO あ⁩ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
